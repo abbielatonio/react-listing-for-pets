@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-listing-for-pets/static/css/main.9fac3ed4.css",
+    "main.js": "/react-listing-for-pets/static/js/main.6ee6cca7.js",
+    "static/js/787.7c2f2fe0.chunk.js": "/react-listing-for-pets/static/js/787.7c2f2fe0.chunk.js",
+    "static/media/hero.jpg": "/react-listing-for-pets/static/media/hero.cb4dfe9f51e50a1e9622.jpg",
+    "static/media/logo.png": "/react-listing-for-pets/static/media/logo.47630da92f2d75fd8ff4.png",
+    "static/media/logowhite.png": "/react-listing-for-pets/static/media/logowhite.009fa2f51eae97bcb7b1.png",
+    "index.html": "/react-listing-for-pets/index.html",
+    "main.9fac3ed4.css.map": "/react-listing-for-pets/static/css/main.9fac3ed4.css.map",
+    "main.6ee6cca7.js.map": "/react-listing-for-pets/static/js/main.6ee6cca7.js.map",
+    "787.7c2f2fe0.chunk.js.map": "/react-listing-for-pets/static/js/787.7c2f2fe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fac3ed4.css",
+    "static/js/main.6ee6cca7.js"
+  ]
+}
